@@ -12,5 +12,5 @@ Project: [ConductAR on Devpost](https://devpost.com/software/conductar)
 * Simon Manning - Pitched original idea, brought MagicLeap
 * Megan Frazier - Co-pitched original idea
 * Cameron Jensen
-* Eric Zocher
+* Eric Zocher - @ezocher
 * Shuai Cao
