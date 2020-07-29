@@ -1,7 +1,7 @@
 # Hackathon-ConductAR-DS
 ConductAR Desktop Simulator - _Further work on the ConductAR project from Seattle VR Hack Weekend 2019_
 
-![Concept image of ConductAR](Images/ConductAR-Concept.png)
+![Concept image of ConductAR](Images/ConductAR-Concept.PNG)
 * The version of ConductAR that we built for the hackathon ran on the MagicLeap One.
 * This is a desktop simulation of the AR version, using the sound clips from the hackathon and with big movable boxes representing the human players.
 * This version has four simulated "players" who can be moved, added, or removed with keyboard commands. As in the AR version, the position of the players determines which clips are played next. Each player is in a lane and there are three distance zones that are used to select the clips. Any number of players from 0 to 4 can be present at any time.
